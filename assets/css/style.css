@@ -1,0 +1,13 @@
+body {
+    background-color: #f8f9fa;
+}
+.question-container {
+    height: calc(100vh - 120px);
+    overflow-y: auto;
+}
+.question-number-list {
+    height: calc(100vh - 120px);
+    overflow-y: auto;
+}
+
+
